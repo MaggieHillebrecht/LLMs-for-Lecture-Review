@@ -1,5 +1,6 @@
 ## LLMs-for-Lecture-Review
-**Maggie Hillebrecht**  
+**Maggie Hillebrecht**
+**hillebrecht@chapman.edu**  
 # Topics: C++, Bjarne Stroustrup, and Game Development
 
 > "Knowing C++ will make it easier when you learn other programming languages," is what my first coding professor said to me at community college. He also mentioned how much C++ has inspired newer programming languages such as Java and C#. I agree with his statement; however, I was curious if C++ was inspired by anything when Bjarne Stroustrup created it in 1979. Thus, my conversation with ChatGPT began.
@@ -22,6 +23,9 @@ In my linear algebra course, it was mentioned that you could access scholarly re
 I got more specific in my questioning: "Would you be able to send me scholarly research links and article links related to what we discussed about C++?" A standout article ChatGPT recommended was a study evaluating which programming languages are suitable for teaching and practical use. Their scoring showed that C++ is a great foundational language, as many in-demand industry languages were influenced by it. [Research on Programming Languages for Teaching and Practical Use](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088941#s5).
 
 The other articles and books focused more on why C++ is widely used and how it became so prevalent. To round out my conversation, I asked Chat for any interviews related to C++ in game development and how it became the industry standard. While interviews on this topic are rare, Chat provided this article on why C++ is the industry standard for game development: [Why Are Most Games Coded in C++?](https://www.analyticsinsight.net/insights/why-are-most-games-coded-in-c).
+
+# Conclusion
+Overall, this conversation was very interesting. I learned quite a bit and got a better understanding of C++. I will most likely try and find Stroustrup's book at my local library to look through it. I will say that I was a little disapointed by the research part of my conversation with Chat. I was expecting more concrete research papers and journals. However, once I got more specific and repeated myself, then I got what I was searching for (kind of).
 
 # References Given By ChatGPT
 Mishra, Arpit. “List of Top C & C++ Books for Programming Enthusiasts.” HackerEarth Blog, 22 May 2019, www.hackerearth.com/blog/developers/list-top-c-c-books-programming-enthusiasts/. 
