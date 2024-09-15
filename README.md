@@ -24,8 +24,8 @@ I got more specific in my questioning: "Would you be able to send me scholarly r
 The other articles and books focused more on why C++ is widely used and how it became so prevalent. To round out my conversation, I asked Chat for any interviews related to C++ in game development and how it became the industry standard. While interviews on this topic are rare, Chat provided this article on why C++ is the industry standard for game development: [Why Are Most Games Coded in C++?](https://www.analyticsinsight.net/insights/why-are-most-games-coded-in-c).
 
 # References Given By ChatGPT
-[Mishra, Arpit. “List of Top C & C++ Books for Programming Enthusiasts.” HackerEarth Blog, 22 May 2019,] (www.hackerearth.com/blog/developers/list-top-c-c-books-programming-enthusiasts/). 
+Mishra, Arpit. “List of Top C & C++ Books for Programming Enthusiasts.” HackerEarth Blog, 22 May 2019, www.hackerearth.com/blog/developers/list-top-c-c-books-programming-enthusiasts/. 
 
-[Farooq, Muhammad Shoaib, et al. “An Evaluation Framework and Comparative Analysis of the Widely Used First Programming Languages.” PLOS ONE, Public Library of Science,](journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0088941#s5. Accessed 14 Sept. 2024). 
+Farooq, Muhammad Shoaib, et al. “An Evaluation Framework and Comparative Analysis of the Widely Used First Programming Languages.” PLOS ONE, Public Library of Science, journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0088941#s5. Accessed 14 Sept. 2024. 
 
-[Migrator. “Why Are Most Games Coded in C++?” Analytics Insight,](www.analyticsinsight.net/insights/why-are-most-games-coded-in-c. Accessed 14 Sept. 2024). 
+Migrator. “Why Are Most Games Coded in C++?” Analytics Insight, www.analyticsinsight.net/insights/why-are-most-games-coded-in-c. Accessed 14 Sept. 2024. 
