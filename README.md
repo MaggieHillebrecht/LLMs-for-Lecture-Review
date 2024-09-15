@@ -1,7 +1,7 @@
 ## LLMs-for-Lecture-Review
 **Maggie Hillebrecht**
 **hillebrecht@chapman.edu**  
-# Topics: C++, Bjarne Stroustrup, and Game Development
+# C++, Bjarne Stroustrup, and Game Development
 
 > "Knowing C++ will make it easier when you learn other programming languages," is what my first coding professor said to me at community college. He also mentioned how much C++ has inspired newer programming languages such as Java and C#. I agree with his statement; however, I was curious if C++ was inspired by anything when Bjarne Stroustrup created it in 1979. Thus, my conversation with ChatGPT began.
 
