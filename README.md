@@ -10,6 +10,7 @@
 3. Why is C++ commonly used in game development
 4. Who coined C++ to be relevant in games
 
+# My Conversation With Chat Cut Up By Each Major Topic
 Chat explained to me that, *"The creator of C++ did not directly derive other languages when developing C++. Instead, C++ was built as an extension of the C language,"* which is quite self-explanatory. Surprisingly, I have never looked into the C language all that much but have explored its extensions. I learned that C++ incorporates concepts from other languages such as Simula's classes and objects, as well as ALGOL's structure in programming. With this new knowledge, I wanted to dive deeper into my own personal use of C++.
 
 As someone studying game development and aiming for a career in that field, I’ve noticed that C++ is widely used in major game engines. I wondered, *is C++ a very efficient language that allows for better performance?* Chat replied that C++ offers low-level memory access, speed, efficiency, resource management, and performance optimization. This made a lot of sense—C++ allows you to fine-tune a computer's hardware and memory. This sparked curiosity about influential researchers who have made significant contributions to game development with C++.
@@ -20,4 +21,11 @@ In my linear algebra course, it was mentioned that you could access scholarly re
 
 I got more specific in my questioning: "Would you be able to send me scholarly research links and article links related to what we discussed about C++?" A standout article ChatGPT recommended was a study evaluating which programming languages are suitable for teaching and practical use. Their scoring showed that C++ is a great foundational language, as many in-demand industry languages were influenced by it. [Research on Programming Languages for Teaching and Practical Use](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088941#s5).
 
-The other articles and books focused more on why C++ is widely used and how it became so prevalent. To round out my conversation, I asked Chat for any interviews related to C++ in game development and how it became the industry standard. While interviews on this topic are rare, Chat provided this article on why C++ is the industry standard for game development: [Why Are Most Games Coded in C++?](https://www.analyticsinsight.net/insights/why-a
+The other articles and books focused more on why C++ is widely used and how it became so prevalent. To round out my conversation, I asked Chat for any interviews related to C++ in game development and how it became the industry standard. While interviews on this topic are rare, Chat provided this article on why C++ is the industry standard for game development: [Why Are Most Games Coded in C++?](https://www.analyticsinsight.net/insights/why-are-most-games-coded-in-c).
+
+# References Given By ChatGPT
+[Mishra, Arpit. “List of Top C & C++ Books for Programming Enthusiasts.” HackerEarth Blog, 22 May 2019,] (www.hackerearth.com/blog/developers/list-top-c-c-books-programming-enthusiasts/). 
+
+[Farooq, Muhammad Shoaib, et al. “An Evaluation Framework and Comparative Analysis of the Widely Used First Programming Languages.” PLOS ONE, Public Library of Science,](journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0088941#s5. Accessed 14 Sept. 2024). 
+
+[Migrator. “Why Are Most Games Coded in C++?” Analytics Insight,](www.analyticsinsight.net/insights/why-are-most-games-coded-in-c. Accessed 14 Sept. 2024). 
