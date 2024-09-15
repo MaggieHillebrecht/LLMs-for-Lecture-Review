@@ -11,7 +11,7 @@
 3. Why is C++ commonly used in game development
 4. Who coined C++ to be relevant in games
 
-# My Conversation With Chat Cut Up By Each Major Topic
+# My Conversation With ChatGPT
 Chat explained to me that, *"The creator of C++ did not directly derive other languages when developing C++. Instead, C++ was built as an extension of the C language,"* which is quite self-explanatory. Surprisingly, I have never looked into the C language all that much but have explored its extensions. I learned that C++ incorporates concepts from other languages such as Simula's classes and objects, as well as ALGOL's structure in programming. With this new knowledge, I wanted to dive deeper into my own personal use of C++.
 
 As someone studying game development and aiming for a career in that field, I’ve noticed that C++ is widely used in major game engines. I wondered, *is C++ a very efficient language that allows for better performance?* Chat replied that C++ offers low-level memory access, speed, efficiency, resource management, and performance optimization. This made a lot of sense—C++ allows you to fine-tune a computer's hardware and memory. This sparked curiosity about influential researchers who have made significant contributions to game development with C++.
